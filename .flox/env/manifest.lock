@@ -6,6 +6,9 @@
       "hugo": {
         "pkg-path": "hugo"
       },
+      "netlify-cli": {
+        "pkg-path": "netlify-cli"
+      },
       "nodejs": {
         "pkg-path": "nodejs"
       }
@@ -139,6 +142,122 @@
       ],
       "outputs": {
         "out": "/nix/store/jq24aijwi1jkcmq1gv5f7ry4nyj7zk6f-hugo-0.145.0"
+      },
+      "system": "x86_64-linux",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "netlify-cli",
+      "broken": false,
+      "derivation": "/nix/store/nl5cp1mgmpmsgg9pxga78vrdbpyf5vgf-netlify-cli-19.0.2.drv",
+      "description": "Netlify command line tool",
+      "install_id": "netlify-cli",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=063dece00c5a77e4a0ea24e5e5a5bd75232806f8",
+      "name": "netlify-cli-19.0.2",
+      "pname": "netlify-cli",
+      "rev": "063dece00c5a77e4a0ea24e5e5a5bd75232806f8",
+      "rev_count": 780010,
+      "rev_date": "2025-04-06T18:34:07Z",
+      "scrape_date": "2025-04-08T01:14:40.698880Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "19.0.2",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/hwbi16pcj4pw3bslcla5416l427mbiqm-netlify-cli-19.0.2"
+      },
+      "system": "aarch64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "netlify-cli",
+      "broken": false,
+      "derivation": "/nix/store/nn5x3w3376vcfzpq0b5qnsw6whdh6qhj-netlify-cli-19.0.2.drv",
+      "description": "Netlify command line tool",
+      "install_id": "netlify-cli",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=063dece00c5a77e4a0ea24e5e5a5bd75232806f8",
+      "name": "netlify-cli-19.0.2",
+      "pname": "netlify-cli",
+      "rev": "063dece00c5a77e4a0ea24e5e5a5bd75232806f8",
+      "rev_count": 780010,
+      "rev_date": "2025-04-06T18:34:07Z",
+      "scrape_date": "2025-04-08T01:35:38.713145Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "19.0.2",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/mdi1mc2y1d17w434pi1vzmr5gaqnra3h-netlify-cli-19.0.2"
+      },
+      "system": "aarch64-linux",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "netlify-cli",
+      "broken": false,
+      "derivation": "/nix/store/k4ffi0ggmcrhl7qg1gsr9y9ryy5ydgkp-netlify-cli-19.0.2.drv",
+      "description": "Netlify command line tool",
+      "install_id": "netlify-cli",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=063dece00c5a77e4a0ea24e5e5a5bd75232806f8",
+      "name": "netlify-cli-19.0.2",
+      "pname": "netlify-cli",
+      "rev": "063dece00c5a77e4a0ea24e5e5a5bd75232806f8",
+      "rev_count": 780010,
+      "rev_date": "2025-04-06T18:34:07Z",
+      "scrape_date": "2025-04-08T01:54:10.050958Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "19.0.2",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/xiapw5b6lzxx75vlb2rkayzxgw0xp953-netlify-cli-19.0.2"
+      },
+      "system": "x86_64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "netlify-cli",
+      "broken": false,
+      "derivation": "/nix/store/vjmn4ihq1mmw78rx0jg4pa64rq45s5vb-netlify-cli-19.0.2.drv",
+      "description": "Netlify command line tool",
+      "install_id": "netlify-cli",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=063dece00c5a77e4a0ea24e5e5a5bd75232806f8",
+      "name": "netlify-cli-19.0.2",
+      "pname": "netlify-cli",
+      "rev": "063dece00c5a77e4a0ea24e5e5a5bd75232806f8",
+      "rev_count": 780010,
+      "rev_date": "2025-04-06T18:34:07Z",
+      "scrape_date": "2025-04-08T02:16:27.285041Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "19.0.2",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/dzm6yf0dravc17qzfr11rw0hbgxkk4sb-netlify-cli-19.0.2"
       },
       "system": "x86_64-linux",
       "group": "toplevel",

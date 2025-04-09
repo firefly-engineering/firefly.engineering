@@ -17,6 +17,7 @@ version = 1
 [install]
 nodejs = { pkg-path = "nodejs" }
 hugo.pkg-path = "hugo"
+netlify-cli.pkg-path = "netlify-cli"
 
 
 ## Environment Variables ---------------------------------------------
